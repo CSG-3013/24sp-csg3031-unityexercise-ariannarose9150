@@ -9,6 +9,7 @@ TagManager:
   - TrashBag
   - Flower
   - HotDog
+  - EndDog
   layers:
   - Default
   - TransparentFX
